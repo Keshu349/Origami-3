@@ -1,0 +1,53 @@
+.Header{
+    display:flex;
+    background-color: #f4a460 ;
+    justify-content: center;
+}
+.H1{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H2{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H3{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H4{
+    display:flex;
+    background-image: linear-gradient(red,brown);   
+}
+.H5{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.H6{
+    display:flex;
+    background-image: linear-gradient(red,brown);
+}
+.C1{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C2{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C3{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C4{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C5{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
+.C6{
+    display:flex;
+    background-image: linear-gradient(saddlebrown,sandybrown);
+}
